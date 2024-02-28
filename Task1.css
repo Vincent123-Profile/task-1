@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+fieldset {
+    background-color: rgb(31, 29, 25);
+    width: 600px;
+    height: fit-content;
+}
+span {
+    color: rgba(249, 222, 124, 0.956);
+}
+h1 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+.profile {
+    max-width: 200px;
+    margin: 50px auto;
+    padding: 5px;
+    background-color: rgb(36, 32, 33);
+    border-radius: 50%;
+}
+a {
+    padding: 15px;
+    margin-top: 20px;
+    display: flex;
+    background-color: rgb(46, 44, 42);
+    color: white;
+    justify-content: center;
+    border-radius: 15px;
+}
